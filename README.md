@@ -19,6 +19,8 @@ brew install node
 3. `sudo dpkg -i nvim-linux64.deb`
 4. `sudo apt install node`
 
+<hr/>
+
 #### Install neovim-setup
 
 ```bash
@@ -43,6 +45,14 @@ nvim
 if nvim is display error, quick `:q` the nvim and re-enter nvim `nvim`
 and typing `:PackerSync`
 
+#### Font Installation
+
+- [Nerd Font](https://www.nerdfonts.com/)
+- Download Hack Font and Install
+- Change termial font
+
+<hr/>
+
 #### if you can't use markdown-preview
 
 ```bash
@@ -50,7 +60,7 @@ cd .local/share/nvim/site/pack/packer/start/markdown-preview.nvim
 npm install
 ```
 
-#### if you want to create readme.md, typing below command in this folder
+#### if you want to create readme(markdown) file, typing below command in this folder
 
 ```bash
 npm install remark
