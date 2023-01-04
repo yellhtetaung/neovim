@@ -48,8 +48,8 @@ and typing `:PackerSync`
 #### Font Installation
 
 - [Nerd Font](https://www.nerdfonts.com/)
-- Download Hack Font and Install
-- Change termial font
+- Download Hack Font and Install this font
+- Change Terminal Font
 
 <hr/>
 
@@ -60,7 +60,7 @@ cd .local/share/nvim/site/pack/packer/start/markdown-preview.nvim
 npm install
 ```
 
-#### if you want to create readme(markdown) file, typing below command in this folder
+#### if you want to create README.md file, typing below command in this folder
 
 ```bash
 npm install remark
@@ -75,4 +75,4 @@ npm install remark
 
 ##### crd by [Craftzdog](https://github.com/craftzdog/dotfiles-public)
 
-if you want to read feature go owner github account
+if you want to read more details and go owner github account
